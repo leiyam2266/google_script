@@ -1,2 +1,2 @@
 # google_script
-write some app base on google
+write some script base on google
