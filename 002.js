@@ -1,4 +1,3 @@
-儲存空間即將用盡 … 儲存空間用盡後，就無法建立或編輯檔案、透過 Gmail 收發電子郵件，或是使用 Google 相簿的備份功能。
 function _main(_sheet, _title, calendar, data) {
   var now = new Date();
   Logger.log(_sheet)
